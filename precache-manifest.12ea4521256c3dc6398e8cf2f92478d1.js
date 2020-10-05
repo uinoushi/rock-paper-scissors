@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "657c6e50ed0af78f73d57f59bc6dac7e",
+    "revision": "95a2e2bd8c7f2ba518a6e54032246b15",
     "url": "/rock-paper-scissors/index.html"
   },
   {
-    "revision": "8c4e88c4b8aae099f851",
-    "url": "/rock-paper-scissors/static/css/2.329fba89.chunk.css"
+    "revision": "b8931f9e934788e33b76",
+    "url": "/rock-paper-scissors/static/css/2.3e3df96c.chunk.css"
   },
   {
-    "revision": "19fccc7e7b451cc36f9d",
+    "revision": "2b0464f4b181342750df",
     "url": "/rock-paper-scissors/static/css/main.12186a76.chunk.css"
   },
   {
-    "revision": "8c4e88c4b8aae099f851",
-    "url": "/rock-paper-scissors/static/js/2.1495a306.chunk.js"
+    "revision": "b8931f9e934788e33b76",
+    "url": "/rock-paper-scissors/static/js/2.9c6c92c8.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/rock-paper-scissors/static/js/2.1495a306.chunk.js.LICENSE.txt"
+    "url": "/rock-paper-scissors/static/js/2.9c6c92c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19fccc7e7b451cc36f9d",
-    "url": "/rock-paper-scissors/static/js/main.00f61619.chunk.js"
+    "revision": "2b0464f4b181342750df",
+    "url": "/rock-paper-scissors/static/js/main.0569a169.chunk.js"
   },
   {
     "revision": "54d8b3ee6fc233b06722",
